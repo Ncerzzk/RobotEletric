@@ -8,5 +8,5 @@
 - [ ] 买长点的手柄线
 
 
-- [ ] 深入学习I2C、SPI、CAN、UART、RMI协议。
+- [ ] 深入学习I2C、SPI、CAN、UART协议。RMII接口
 - [ ]
